@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-#### 1. Final notebook located Starter_Files > Resources > ETL_Mini_Project_SAnderson_KOquendo.ipynb
+#### 1. Final notebook located Starter_Files > ETL_Mini_Project_SAnderson_KOquendo.ipynb
 #### 2. Category dataframe Starter_Files > Resources > category.csv
 #### 3. Subcategory dataframe Starter_Files > Resources > subcategory.csv
 #### 4. Campaign dataframe Starter_Files > Resources > campaign.csv
